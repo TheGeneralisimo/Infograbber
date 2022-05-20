@@ -1,0 +1,21 @@
+TEMATICA -> <script async src="https://cse.google.com/cse.js?cx=015514d41410d46ac">
+</script>
+<div class="gcse-search"></div>
+
+
+ACTOR -> <script async src="https://cse.google.com/cse.js?cx=e6b7a7a974fa0482e"></script>
+<div class="gcse-search"></div>
+
+
+INSTITUCIONAL ESTATAL -> <script async src="https://cse.google.com/cse.js?cx=92cc572e2092b48a5"></script>
+<div class="gcse-search"></div>
+
+
+INSTITUCIONAL FEDERAL -> <script async src="https://cse.google.com/cse.js?cx=5078ad384da8f4363">
+</script>
+<div class="gcse-search"></div>
+
+
+REDES SOCIALES -> <script async src="https://cse.google.com/cse.js?cx=344742814b7164a07">
+</script>
+<div class="gcse-search"></div>
